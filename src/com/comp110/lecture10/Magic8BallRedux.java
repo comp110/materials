@@ -27,6 +27,7 @@ public class Magic8BallRedux {
       System.out.println("Nope, no way.");
     }
 
+    keyboard.close(); // Close the scanner for good measure.
   }
 
 }
