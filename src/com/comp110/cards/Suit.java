@@ -9,10 +9,10 @@ package com.comp110.cards;
 
 public enum Suit {
   
-  HEART(  "♥"),
-  DIAMOND("♦"),
-  SPADE(  "♠"),
-  CLUB(   "♣");
+  HEART(  "HEART"),
+  DIAMOND("DIAMOND"),
+  SPADE(  "SPADE"),
+  CLUB(   "CLUB");
   
   private final String symbol;
   
