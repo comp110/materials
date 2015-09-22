@@ -9,15 +9,15 @@ import java.util.Scanner;
 public class Magic8BallRedux {
 
   public static void main(String[] args) {
-    
-    System.out.println("Ask me a yes/no question...");
     Scanner keyboard = new Scanner(System.in);
+
+    System.out.println("Ask me a yes/no question...");
     keyboard.nextLine(); // We don't care what the user asks...
 
     // Generate a random response value
     double randomNumber = Math.random() * 3.0;
-    int response = (int)randomNumber;
-    
+    int response = (int) randomNumber;
+
     // Depending on the generated value, pick a response
     if (response == 0) {
       System.out.println("Definitely. Yes.");
