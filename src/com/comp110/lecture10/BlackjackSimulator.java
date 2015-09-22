@@ -13,11 +13,11 @@ class BlackjackSimulator {
  
       Deck deck = new Deck(); // Initialize a new Deck variable
       
-      Card card1, card2;      // Declare 2 card variables
-      card1 = deck.draw();    // Draw cards from deck
-      card2 = deck.draw();
+      Card card0, card1;      // Declare 2 card variables
+      card0 = deck.draw();    // Draw cards from deck
+      card1 = deck.draw();
       
-      System.out.println("You drew: " + card1 + " " + card2);
+      System.out.println("You drew: " + card0 + " " + card1);
       
   }
 
