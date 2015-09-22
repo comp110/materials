@@ -34,7 +34,7 @@ public class Card {
   }
   
   public String toString() {
-    return rank.getSymbol() + suit.getSymbol();
+    return rank.getSymbol() + "-" + suit.getSymbol();
   }
   
   public int getOrdinal() {
