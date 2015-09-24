@@ -27,7 +27,7 @@ public class RamsesRaffle {
     Thread.sleep(1000); // "Sleep" for 1000 milliseconds...
     // The suspense builds...
     
-    System.out.println(winner + " IS THE CHOSEN ONE FOR " + raffle + "!");
+    System.out.println(winner + " IS CHOSEN FOR " + raffle + "!");
     
     
   }

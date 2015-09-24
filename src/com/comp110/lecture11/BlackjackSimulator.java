@@ -13,9 +13,8 @@ class BlackjackSimulator {
       Deck deck = new Deck(); // Initialize a new 52 Card Deck
       deck.shuffle();
       
-      Card card0, card1;
-      card0 = deck.draw();    // Draw cards from deck
-      card1 = deck.draw();
+      Card card0 = deck.draw(); // Draw 2 cards from deck
+      Card card1 = deck.draw();
       
       boolean isBlackjack = card0.isAce() && card1.getOrdinal() >= 10;
       isBlackjack = isBlackjack || card0.getOrdinal() >= 10 && card1.isAce();
