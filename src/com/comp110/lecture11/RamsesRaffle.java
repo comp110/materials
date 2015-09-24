@@ -10,10 +10,12 @@ public class RamsesRaffle {
     System.out.println("RAMSES' RAFFLE\nWhat is up for grabs?");
     String raffle = keyboard.nextLine();
     
+    // Setup contestants
     String person0 = "[YOUR NAME HERE]";
     String person1 = "[FRIEND NAME HERE]";
     String person2 = "Kris";
     
+    // Select winner at random
     int winningNumber = (int)(Math.random() * 3.0);
     String winner;
     if(winningNumber == 0) {
