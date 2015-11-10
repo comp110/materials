@@ -1,0 +1,782 @@
+Breakfast,Assorted Donuts,213.77,2.47,23.91,12.17,false,true,false,false
+Breakfast,Apple Turnover,225.46,3.78,32.14,9.14,false,true,false,false
+Breakfast,Chocolate Chip Banana Nut Bread,367.18,3.67,67.44,10.25,false,true,false,false
+Breakfast,Chocolate Croissant,202.96,4.51,25.37,9.58,false,true,false,false
+Breakfast,Coffee Cake,130.02,1.57,17.93,6.01,false,true,false,false
+Breakfast,Cheese Omelet,177.24,13.09,1.00,12.97,false,true,true,false
+Breakfast,Assorted Veggie Toppings,35.02,2.56,7.05,0.31,false,false,true,true
+Breakfast,Bacon,140.00,8.00,0,12.00,false,false,true,false
+Breakfast,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Breakfast,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Breakfast,Breakfast Potatoes,193.49,2.59,25.83,8.38,false,false,true,true
+Breakfast,Biscuits,113.40,2.13,12.76,6.38,false,true,false,false
+Breakfast,Old Fashioned Oatmeal,148.66,4.96,26.76,2.97,false,false,false,true
+Breakfast,Pork Sausage Gravy,82.36,3.01,5.76,5.29,false,false,true,false
+Breakfast,Quaker Grits,103.50,2.39,23.09,0.40,false,false,false,true
+Breakfast,Tofu Florentine,116.68,8.96,4.03,6.84,false,false,true,true
+Breakfast,Bacon,140.00,8.00,0,12.00,false,false,true,false
+Breakfast,Scrambled Eggs,156.60,10.87,0.60,11.78,false,true,true,false
+Breakfast,Grilled Ham Steak,56.70,7.94,0.57,2.83,false,false,true,false
+Breakfast,Veggie Sausage Patties,194.00,24.00,6.00,8.00,false,true,false,false
+Breakfast,Breakfast Potatoes,193.49,2.59,25.83,8.38,false,false,true,true
+Breakfast,Buttermilk Pancakes,102.65,2.64,19.14,1.98,false,true,false,false
+Breakfast,100% Apple Juice,110.00,0,28.00,0,false,false,true,true
+Breakfast,100% Cranberry Juice,140.00,0,36.00,0,false,false,true,true
+Breakfast,100% Orange Juice,120.00,0,31.00,0,false,false,true,true
+Breakfast,Chocolate Milk,177.50,8.10,31.50,2.50,false,true,true,false
+Breakfast,Chocolate Soymilk,120.00,5.00,19.00,3.00,false,false,true,true
+Breakfast,Lactose Free Milk,90.00,8.00,12.00,0,false,true,true,false
+Breakfast,Reduced Fat Milk,122.00,8.05,11.71,4.83,false,true,true,false
+Breakfast,Skim Milk,83.30,8.26,12.15,0.20,false,true,true,false
+Breakfast,Vanilla Soymilk,100.00,6.00,10.00,3.50,false,false,true,true
+Breakfast,Whole Milk,148.84,7.69,11.71,7.93,false,true,true,false
+Breakfast,Diet Dr. Pepper,0,0,0,0,false,false,true,true
+Breakfast,Diet Pepsi,0,0,0,0,false,false,true,true
+Breakfast,Dr. Pepper,100.00,0,26.40,0,false,false,true,true
+Breakfast,Gatorade Fruit Punch,80.00,0,21.00,0,false,false,true,true
+Breakfast,Cheerwine,100.00,0,28.00,0,false,false,true,true
+Breakfast,Root Beer,100.00,0,26.00,0,false,false,true,true
+Breakfast,Mountain Dew,110.00,0,29.00,0,false,false,true,true
+Breakfast,Pepsi,100.00,0,28.00,0,false,false,true,true
+Breakfast,Sierra Mist,100.00,0,27.00,0,false,false,true,true
+Breakfast,Strawberry Kiwi Juice,120.00,0,30.00,0,false,false,true,true
+Breakfast,Sunkist Orange,113.33,0,29.33,0,false,true,true,false
+Breakfast,Tropicana Fruit Punch,110.00,0,30.00,0,false,false,true,true
+Breakfast,Tropicana Lemonade,100.00,0,27.00,0,false,false,true,true
+Breakfast,Wild Cherry Pepsi,100.00,0,28.00,0,false,false,true,true
+Breakfast,Apple Jacks,110.00,1.00,25.00,1.00,false,false,false,true
+Breakfast,Rice Chex,100.00,2.00,23.00,0,false,false,true,true
+Breakfast,Reese's Puffs,120.00,2.00,22.00,3.00,false,false,false,true
+Breakfast,Raisin Bran,190.00,5.00,46.00,1.00,false,false,false,true
+Breakfast,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Breakfast,Lucky Charms,692.99,12.60,138.60,6.30,false,false,false,false
+Breakfast,Froot Loops,110.00,1.00,26.00,1.00,false,false,false,true
+Breakfast,Cinnamon Toast Crunch,130.00,1.00,25.00,3.00,false,false,false,true
+Breakfast,Cheerios,100.00,3.00,20.00,2.00,false,false,false,true
+Breakfast,Rice Krispies,130.00,2.00,29.00,0,false,false,false,true
+Breakfast,A.1. Steak Sauce,15.00,0,3.00,0,false,false,true,true
+Breakfast,Strawberry Jelly,35.00,0,9.00,0,false,false,true,true
+Breakfast,Strawberry Cream Cheese,90.00,1.00,5.00,8.00,false,true,true,false
+Breakfast,Plain Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Breakfast,Peanut Butter,120.00,4.00,5.00,11.00,false,false,true,true
+Breakfast,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Breakfast,Mustard,0,0,1.00,0,false,false,true,true
+Breakfast,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Breakfast,Margarine,100.00,0,0,11.00,false,false,true,true
+Breakfast,Ketchup,33.00,0,4.00,0,false,false,true,true
+Breakfast,Grape Jelly,35.00,0,9.00,0,false,false,true,true
+Breakfast,Garden Vegetable Cream Cheese,90.00,1.00,2.00,8.00,false,true,true,false
+Breakfast,Chives and Onion Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Breakfast,All Natural Peanut Butter,122.85,4.97,4.52,10.43,false,false,true,true
+Breakfast,Texas Pete Hot Sauce,0,0,0,0,false,false,true,true
+Breakfast,Applesauce,81.00,0,19.80,0,false,false,true,true
+Breakfast,Cantaloupe,42.31,0.85,10.16,0,false,false,true,true
+Breakfast,Honey Dew,40.82,0.61,10.31,0.16,false,false,true,true
+Breakfast,Lowfat Strawberry Yogurt,99.91,4.50,17.98,1.00,true,true,true,false
+Breakfast,Low Fat Cottage Cheese,80.28,13.05,5.02,1.00,false,true,true,false
+Breakfast,Lowfat Vanilla Yogurt,86.67,4.67,14.67,1.00,true,true,true,false
+Breakfast,Pineapple,56.70,0.61,14.88,0.14,false,false,true,true
+Breakfast,Grapefruit,47.63,0.87,12.09,0.16,false,false,true,true
+Lunch,Assorted Brownies,207.93,2.41,26.68,11.44,false,true,false,false
+Lunch,Assorted Cookies,131.62,1.01,17.21,6.07,false,true,false,false
+Lunch,Rice Krispie Treats,357.75,1.20,47.50,18.82,false,false,false,false
+Lunch,Lemon Icebox Pie,312.85,5.32,34.14,17.54,false,true,false,false
+Lunch,Vegan Chocolate Hazelnut Cake,655.51,4.90,91.72,31.13,false,false,false,true
+Lunch,Brownie,182.04,2.33,20.59,11.44,false,true,true,false
+Lunch,Coconut Custard Cream Pie,428.48,5.22,57.48,20.56,false,true,false,false
+Lunch,Soft Serve,100.00,0,19.00,3.00,false,true,true,false
+Lunch,Ice Cream Cone,19.84,0,3.97,0,false,false,false,true
+Lunch,Cream of Mushroom Soup,112.27,5.15,11.03,5.63,false,true,false,false
+Lunch,Cuban Black Bean Soup,65.06,2.96,9.49,1.58,false,false,true,true
+Lunch,Egg Drop Soup ,30.61,1.31,4.27,0.83,false,false,true,false
+Lunch,Smoked Salmon Roll,112.24,3.01,17.94,2.89,false,false,true,false
+Lunch,Tangy Cucumber Salad,22.16,0.70,4.83,0.18,false,false,true,true
+Lunch,Steamed Edamame,173.40,11.74,13.27,7.25,false,false,true,true
+Lunch,Alfredo,146.47,5.86,7.54,10.04,false,true,false,false
+Lunch,Bolognese,73.85,3.69,6.02,4.08,false,false,true,false
+Lunch,Marinara,41.73,1.35,6.92,1.29,false,false,true,true
+Lunch,Italian Meatballs,40.02,2.00,0.83,3.17,false,false,false,false
+Lunch,Roasted Squash & Zucchini,53.98,1.33,3.82,4.20,false,false,true,true
+Lunch,Penne,119.12,4.17,25.01,0.60,false,false,false,true
+Lunch,Whole Grain Penne,119.12,4.17,24.42,0.89,false,false,false,true
+Lunch,Italian Sausage Baked Ziti,226.03,11.90,35.15,4.78,false,false,false,false
+Lunch,Grilled Ancho Lime Chicken,189.45,11.71,0.91,15.19,false,false,false,false
+Lunch,Sauteed Garlic Spinach,43.34,3.16,4.22,2.24,false,false,true,true
+Lunch,Seasoned Black Beans,61.25,3.37,10.64,0.37,false,false,true,true
+Lunch,Cheese Omelet,177.24,13.09,1.00,12.97,false,true,true,false
+Lunch,Assorted Veggie Toppings,35.02,2.56,7.05,0.31,false,false,true,true
+Lunch,Bacon,140.00,8.00,0,12.00,false,false,true,false
+Lunch,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Lunch,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Lunch,Breakfast Potatoes,193.49,2.59,25.83,8.38,false,false,true,true
+Lunch,Marinated Roasted Beef,144.09,15.19,0.20,8.32,false,false,true,false
+Lunch,Beefy Mushroom Gravy,14.46,0.43,1.19,0.92,false,false,false,false
+Lunch,Rosemary Potatoes,89.30,2.13,17.90,1.40,false,false,true,true
+Lunch,Roasted Acorn Squash,71.97,1.14,16.04,1.33,false,false,true,true
+Lunch,Steamed Whole Green Beans,20.49,1.02,5.12,0,false,false,true,true
+Lunch,Scrambled Eggs,156.60,10.87,0.60,11.78,false,true,true,false
+Lunch,Bacon,140.00,8.00,0,12.00,false,false,true,false
+Lunch,Breakfast Potatoes,193.49,2.59,25.83,8.38,false,false,true,true
+Lunch,Buttermilk Pancakes,102.65,2.64,19.14,1.98,false,true,false,false
+Lunch,Humane Chicken Sandwich,267.60,30.03,27.18,4.87,false,false,false,false
+Lunch,Black Bean Burger,250.00,15.00,43.00,4.50,false,false,false,true
+Lunch,Garden Burger,290.00,22.00,37.00,7.00,false,true,false,false
+Lunch,Sauteed Red Onion,20.87,0.30,2.55,1.16,false,false,true,true
+Lunch,Sauteed Mushrooms,33.29,0.78,0.83,3.22,false,false,true,true
+Lunch,Grilled Cheese Sandwich,350.62,15.00,18.00,27.07,false,true,false,false
+Lunch,Curly Fries,256.60,2.56,23.05,17.34,false,false,false,true
+Lunch,Teriyaki Soy Nuggets,197.77,8.44,9.92,14.13,false,false,false,true
+Lunch,Wasabi Ginger Mashed Potato,106.93,2.57,18.09,2.95,false,false,true,true
+Lunch,Edamame Beans and Pearl Onion,118.10,8.61,12.42,3.16,false,false,true,true
+Lunch,Sesame Oil Braised Cabbage,32.08,1.16,5.38,0.96,false,false,true,true
+Lunch,Classic Cheese Pizza,220.00,7.76,20.19,12.80,false,true,false,false
+Lunch,Classic Pepperoni Pizza,238.99,8.52,20.32,14.57,false,false,false,false
+Lunch,BBQ Chicken and Bacon Pizza,288.97,10.55,29.20,15.25,false,false,false,false
+Lunch,Margherita Pizza,174.41,9.17,20.53,7.03,false,true,false,false
+Lunch,Turkey Cobb Wrap,524.34,29.45,51.82,23.69,false,false,false,false
+Lunch,Ranch Chips,125.92,1.29,13.51,7.08,false,true,true,false
+Lunch,100% Apple Juice,110.00,0,28.00,0,false,false,true,true
+Lunch,100% Cranberry Juice,140.00,0,36.00,0,false,false,true,true
+Lunch,100% Orange Juice,120.00,0,31.00,0,false,false,true,true
+Lunch,Chocolate Milk,177.50,8.10,31.50,2.50,false,true,true,false
+Lunch,Chocolate Soymilk,120.00,5.00,19.00,3.00,false,false,true,true
+Lunch,Lactose Free Milk,90.00,8.00,12.00,0,false,true,true,false
+Lunch,Reduced Fat Milk,122.00,8.05,11.71,4.83,false,true,true,false
+Lunch,Skim Milk,83.30,8.26,12.15,0.20,false,true,true,false
+Lunch,Vanilla Soymilk,100.00,6.00,10.00,3.50,false,false,true,true
+Lunch,Whole Milk,148.84,7.69,11.71,7.93,false,true,true,false
+Lunch,Diet Dr. Pepper,0,0,0,0,false,false,true,true
+Lunch,Diet Pepsi,0,0,0,0,false,false,true,true
+Lunch,Dr. Pepper,100.00,0,26.40,0,false,false,true,true
+Lunch,Gatorade Fruit Punch,80.00,0,21.00,0,false,false,true,true
+Lunch,Cheerwine,100.00,0,28.00,0,false,false,true,true
+Lunch,Root Beer,100.00,0,26.00,0,false,false,true,true
+Lunch,Mountain Dew,110.00,0,29.00,0,false,false,true,true
+Lunch,Pepsi,100.00,0,28.00,0,false,false,true,true
+Lunch,Sierra Mist,100.00,0,27.00,0,false,false,true,true
+Lunch,Strawberry Kiwi Juice,120.00,0,30.00,0,false,false,true,true
+Lunch,Sunkist Orange,113.33,0,29.33,0,false,true,true,false
+Lunch,Tropicana Fruit Punch,110.00,0,30.00,0,false,false,true,true
+Lunch,Tropicana Lemonade,100.00,0,27.00,0,false,false,true,true
+Lunch,Wild Cherry Pepsi,100.00,0,28.00,0,false,false,true,true
+Lunch,Apple Jacks,110.00,1.00,25.00,1.00,false,false,false,true
+Lunch,Rice Chex,100.00,2.00,23.00,0,false,false,true,true
+Lunch,Reese's Puffs,120.00,2.00,22.00,3.00,false,false,false,true
+Lunch,Raisin Bran,190.00,5.00,46.00,1.00,false,false,false,true
+Lunch,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Lunch,Lucky Charms,692.99,12.60,138.60,6.30,false,false,false,false
+Lunch,Froot Loops,110.00,1.00,26.00,1.00,false,false,false,true
+Lunch,Cinnamon Toast Crunch,130.00,1.00,25.00,3.00,false,false,false,true
+Lunch,Cheerios,100.00,3.00,20.00,2.00,false,false,false,true
+Lunch,Rice Krispies,130.00,2.00,29.00,0,false,false,false,true
+Lunch,A.1. Steak Sauce,15.00,0,3.00,0,false,false,true,true
+Lunch,Strawberry Jelly,35.00,0,9.00,0,false,false,true,true
+Lunch,Strawberry Cream Cheese,90.00,1.00,5.00,8.00,false,true,true,false
+Lunch,Plain Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Lunch,Peanut Butter,120.00,4.00,5.00,11.00,false,false,true,true
+Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Lunch,Mustard,0,0,1.00,0,false,false,true,true
+Lunch,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Lunch,Margarine,100.00,0,0,11.00,false,false,true,true
+Lunch,Ketchup,33.00,0,4.00,0,false,false,true,true
+Lunch,Grape Jelly,35.00,0,9.00,0,false,false,true,true
+Lunch,Garden Vegetable Cream Cheese,90.00,1.00,2.00,8.00,false,true,true,false
+Lunch,Chives and Onion Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Lunch,All Natural Peanut Butter,122.85,4.97,4.52,10.43,false,false,true,true
+Lunch,Texas Pete Hot Sauce,0,0,0,0,false,false,true,true
+Lunch,12 Grain Bread,100.00,5.00,19.00,2.00,false,false,false,true
+Lunch,Cheese Ciabatta,122.06,3.83,23.19,1.24,false,true,false,false
+Lunch,Gluten Free Bread,70.00,2.00,11.00,2.00,false,true,true,false
+Lunch,Herbed Focaccia,280.00,8.00,49.00,6.00,false,false,false,true
+Lunch,Honey Wheat Bread,100.00,4.00,22.00,1.00,false,false,false,true
+Lunch,Honey Wheat Tortilla,200.00,5.00,34.00,5.00,false,false,false,true
+Lunch,Wheat Bread,50.00,4.00,10.00,1.00,false,false,false,true
+Lunch,White Bread,60.00,3.00,12.00,0.50,false,true,false,false
+Lunch,Round Pretzel Bun,270.00,2.00,54.00,5.00,false,true,false,false
+Lunch,Rye Bread,80.00,3.00,15.00,1.00,false,false,false,true
+Lunch,Wheat Sub Roll,220.00,8.00,44.00,2.50,false,false,false,true
+Lunch,White Sub Roll,170.00,6.00,34.00,1.50,false,false,false,true
+Lunch,White Tortilla,200.00,5.00,32.00,6.00,false,false,false,true
+Lunch,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Lunch,Sliced Roast Beef,80.00,12.00,1.00,3.00,false,false,true,false
+Lunch,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Lunch,Chicken Salad,143.45,7.14,0.60,12.16,false,false,true,false
+Lunch,Tuna Salad,210.83,12.19,0.50,17.26,false,false,true,false
+Lunch,Pepper Jack Cheese,90.00,5.00,1.00,8.00,false,true,true,false
+Lunch,Provolone Cheese,80.00,6.00,0,6.00,false,true,true,false
+Lunch,Swiss Cheese,90.00,6.00,1.00,7.00,false,true,true,false
+Lunch,White American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Lunch,Yellow American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Lunch,Banana Peppers,0,0,0,0,false,false,true,true
+Lunch,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Lunch,Green Leaf Lettuce,1.44,0.13,0.28,0.01,false,false,true,true
+Lunch,Pickles,3.40,0.17,0.73,0.04,false,false,true,true
+Lunch,Sliced Red Onion,11.20,0.31,2.62,0.03,false,false,true,true
+Lunch,Sliced Tomatoes,7.20,0.35,1.56,0.08,false,false,true,true
+Lunch,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Lunch,Light Mayonnaise,35.00,0,0.50,3.50,false,true,true,false
+Lunch,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Lunch,Spicy Mustard,5.00,0,1.00,0,false,false,true,true
+Lunch,Yellow Mustard,0,0,1.00,0,false,false,true,true
+Lunch,Applesauce,81.00,0,19.80,0,false,false,true,true
+Lunch,Iceberg Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Lunch,Mesclun Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Lunch,Romaine Lettuce,8.00,1.00,2.00,0,false,false,true,true
+Lunch,Apricots,54.87,0,12.80,0,false,false,true,true
+Lunch,Bacon Bits,70.00,6.00,0,4.00,false,false,true,false
+Lunch,Banana Peppers,0,0,0,0,false,false,true,true
+Lunch,Beets,8.79,0.26,2.04,0.04,false,false,true,true
+Lunch,Black Beans,21.81,1.31,3.71,0.11,false,false,true,true
+Lunch,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Lunch,Broccoli,7.94,0.84,1.49,0.10,false,false,true,true
+Lunch,Cherry Tomatoes,5.10,0.25,1.10,0.06,false,false,true,true
+Lunch,Chickpeas,39.12,2.00,6.48,0.70,false,false,true,true
+Lunch,Croutons,30.00,1.00,5.00,1.00,false,true,false,false
+Lunch,Diced Grilled Chicken,104.42,11.44,0,6.06,false,false,true,false
+Lunch,Diced Tofu,83.35,8.59,2.21,4.42,false,false,true,true
+Lunch,Dried Cranberries,85.05,0,20.55,0.35,false,false,true,true
+Lunch,Green Peppers,5.67,0.24,1.32,0.05,false,false,true,true
+Lunch,Hard Boiled Eggs,43.94,3.57,0.32,3.01,false,true,true,false
+Lunch,Hummus,128.61,3.82,10.45,8.71,false,false,true,true
+Lunch,Kidney Beans,34.30,2.30,5.90,0.26,false,false,true,true
+Lunch,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Lunch,Peas,22.11,1.46,4.04,0.08,false,false,true,true
+Lunch,Pita Wedges,72.38,2.11,12.37,1.51,false,true,false,false
+Lunch,Quinoa,68.04,2.49,11.91,1.08,false,false,true,true
+Lunch,Raisins,92.14,0.71,21.97,0,false,false,true,true
+Lunch,Red Onion,10.80,0.30,2.52,0.03,false,false,false,true
+Lunch,Shelled Edamame,37.80,3.02,3.40,1.13,false,false,true,true
+Lunch,Shredded Carrots,11.62,0.26,2.72,0.07,false,false,true,true
+Lunch,Sliced Cucumbers,4.25,0.18,1.03,0.03,false,false,true,true
+Lunch,Sliced Mushrooms,6.24,0.88,0.92,0.10,false,false,true,true
+Lunch,Sunflower Seeds,83.23,2.76,3.44,7.12,false,false,true,true
+Lunch,Cantaloupe,42.31,0.85,10.16,0,false,false,true,true
+Lunch,Grapes,78.24,0.82,20.53,0.18,false,false,true,true
+Lunch,Honeydew Melon,40.82,0.61,10.31,0.16,false,false,true,true
+Lunch,Pineapple,56.70,0.61,14.88,0.14,false,false,true,true
+Lunch,Strawberries,36.29,0.76,8.71,0.34,false,false,true,true
+Lunch,Feta Cheese,70.87,4.05,1.01,6.07,false,true,true,false
+Lunch,Reduced Fat Cottage Cheese,97.52,13.41,4.15,2.78,false,true,true,false
+Lunch,Shredded Cheddar Cheese,111.37,6.07,1.01,10.12,false,true,true,false
+Lunch,Lowfat Organic Strawberry Yogurt,130.00,7.00,21.00,1.50,true,true,true,false
+Lunch,Lowfat Organic Vanilla Yogurt,130.00,7.00,22.00,1.50,false,true,true,false
+Lunch,Balsamic Vinaigrette,100.00,0,3.00,10.00,false,false,true,true
+Lunch,Blue Cheese Dressing,150.00,0,1.00,16.00,false,true,true,false
+Lunch,Creamy Caesar Dressing,170.00,1.00,1.00,18.00,false,false,true,false
+Lunch,Ginger Sesame Dressing,40.52,0.55,4.72,2.38,false,false,false,true
+Lunch,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Lunch,Italian Dressing,150.00,0,0,17.00,false,false,true,true
+Lunch,Lite Italian Dressing,45.00,0,1.00,4.50,false,false,true,true
+Lunch,Lite Ranch Dressing,80.00,0,3.00,7.00,false,true,true,false
+Lunch,Ranch Dressing,140.00,0,2.00,15.00,false,true,true,false
+Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Lunch,Raspberry Vinaigrette,150.67,0.07,3.16,15.92,false,false,true,true
+Late Lunch,Assorted Brownies,207.93,2.41,26.68,11.44,false,true,false,false
+Late Lunch,Assorted Cookies,131.62,1.01,17.21,6.07,false,true,false,false
+Late Lunch,Rice Krispie Treats,357.75,1.20,47.50,18.82,false,false,false,false
+Late Lunch,Lemon Icebox Pie,312.85,5.32,34.14,17.54,false,true,false,false
+Late Lunch,Vegan Chocolate Hazelnut Cake,655.51,4.90,91.72,31.13,false,false,false,true
+Late Lunch,Brownie,182.04,2.33,20.59,11.44,false,true,true,false
+Late Lunch,Coconut Custard Cream Pie,428.48,5.22,57.48,20.56,false,true,false,false
+Late Lunch,Soft Serve,100.00,0,19.00,3.00,false,true,true,false
+Late Lunch,Ice Cream Cone,19.84,0,3.97,0,false,false,false,true
+Late Lunch,Cream of Mushroom Soup,112.27,5.15,11.03,5.63,false,true,false,false
+Late Lunch,Cuban Black Bean Soup,65.06,2.96,9.49,1.58,false,false,true,true
+Late Lunch,Alfredo,146.47,5.86,7.54,10.04,false,true,false,false
+Late Lunch,Bolognese,73.85,3.69,6.02,4.08,false,false,true,false
+Late Lunch,Italian Meatballs,40.02,2.00,0.83,3.17,false,false,false,false
+Late Lunch,Marinara,41.73,1.35,6.92,1.29,false,false,true,true
+Late Lunch,Roasted Squash & Zucchini,53.98,1.33,3.82,4.20,false,false,true,true
+Late Lunch,Penne,119.12,4.17,25.01,0.60,false,false,false,true
+Late Lunch,Whole Grain Penne,119.12,4.17,24.42,0.89,false,false,false,true
+Late Lunch,Marinated Roasted Beef,144.09,15.19,0.20,8.32,false,false,true,false
+Late Lunch,Beefy Mushroom Gravy,14.46,0.43,1.19,0.92,false,false,false,false
+Late Lunch,Rosemary Potatoes,89.30,2.13,17.90,1.40,false,false,true,true
+Late Lunch,Roasted Acorn Squash,71.97,1.14,16.04,1.33,false,false,true,true
+Late Lunch,Steamed Whole Green Beans,20.49,1.02,5.12,0,false,false,true,true
+Late Lunch,Teriyaki Soy Nuggets,197.77,8.44,9.92,14.13,false,false,false,true
+Late Lunch,Wasabi Ginger Mashed Potato,106.93,2.57,18.09,2.95,false,false,true,true
+Late Lunch,Edamame Beans and Pearl Onion,118.10,8.61,12.42,3.16,false,false,true,true
+Late Lunch,Sesame Oil Braised Cabbage,32.08,1.16,5.38,0.96,false,false,true,true
+Late Lunch,Classic Cheese Pizza,220.00,7.76,20.19,12.80,false,true,false,false
+Late Lunch,Classic Pepperoni Pizza,238.99,8.52,20.32,14.57,false,false,false,false
+Late Lunch,BBQ Chicken and Bacon Pizza,288.97,10.55,29.20,15.25,false,false,false,false
+Late Lunch,Margherita Pizza,174.41,9.17,20.53,7.03,false,true,false,false
+Late Lunch,100% Apple Juice,110.00,0,28.00,0,false,false,true,true
+Late Lunch,Reduced Fat Milk,122.00,8.05,11.71,4.83,false,true,true,false
+Late Lunch,Root Beer,100.00,0,26.00,0,false,false,true,true
+Late Lunch,Sierra Mist,100.00,0,27.00,0,false,false,true,true
+Late Lunch,Skim Milk,83.30,8.26,12.15,0.20,false,true,true,false
+Late Lunch,Strawberry Kiwi Juice,120.00,0,30.00,0,false,false,true,true
+Late Lunch,Sunkist Orange,113.33,0,29.33,0,false,true,true,false
+Late Lunch,Tropicana Fruit Punch,110.00,0,30.00,0,false,false,true,true
+Late Lunch,Tropicana Lemonade,100.00,0,27.00,0,false,false,true,true
+Late Lunch,Vanilla Soymilk,100.00,6.00,10.00,3.50,false,false,true,true
+Late Lunch,Whole Milk,148.84,7.69,11.71,7.93,false,true,true,false
+Late Lunch,Pepsi,100.00,0,28.00,0,false,false,true,true
+Late Lunch,Mountain Dew,110.00,0,29.00,0,false,false,true,true
+Late Lunch,100% Cranberry Juice,140.00,0,36.00,0,false,false,true,true
+Late Lunch,100% Orange Juice,120.00,0,31.00,0,false,false,true,true
+Late Lunch,Cheerwine,100.00,0,28.00,0,false,false,true,true
+Late Lunch,Chocolate Milk,177.50,8.10,31.50,2.50,false,true,true,false
+Late Lunch,Chocolate Soymilk,120.00,5.00,19.00,3.00,false,false,true,true
+Late Lunch,Diet Dr. Pepper,0,0,0,0,false,false,true,true
+Late Lunch,Diet Pepsi,0,0,0,0,false,false,true,true
+Late Lunch,Dr. Pepper,100.00,0,26.40,0,false,false,true,true
+Late Lunch,Gatorade Fruit Punch,80.00,0,21.00,0,false,false,true,true
+Late Lunch,Lactose Free Milk,90.00,8.00,12.00,0,false,true,true,false
+Late Lunch,Wild Cherry Pepsi,100.00,0,28.00,0,false,false,true,true
+Late Lunch,Apple Jacks,110.00,1.00,25.00,1.00,false,false,false,true
+Late Lunch,Cinnamon Toast Crunch,130.00,1.00,25.00,3.00,false,false,false,true
+Late Lunch,Froot Loops,110.00,1.00,26.00,1.00,false,false,false,true
+Late Lunch,Honey Nut Cheerios,110.00,2.00,22.00,1.50,false,true,false,false
+Late Lunch,Lucky Charms,692.99,12.60,138.60,6.30,false,false,false,false
+Late Lunch,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Late Lunch,Raisin Bran,190.00,5.00,46.00,1.00,false,false,false,true
+Late Lunch,Reese's Puffs,120.00,2.00,22.00,3.00,false,false,false,true
+Late Lunch,Rice Chex,100.00,2.00,23.00,0,false,false,true,true
+Late Lunch,Rice Krispies,130.00,2.00,29.00,0,false,false,false,true
+Late Lunch,A.1. Steak Sauce,15.00,0,3.00,0,false,false,true,true
+Late Lunch,Strawberry Jelly,35.00,0,9.00,0,false,false,true,true
+Late Lunch,Strawberry Cream Cheese,90.00,1.00,5.00,8.00,false,true,true,false
+Late Lunch,Plain Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Late Lunch,Peanut Butter,120.00,4.00,5.00,11.00,false,false,true,true
+Late Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Late Lunch,Mustard,0,0,1.00,0,false,false,true,true
+Late Lunch,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Late Lunch,Margarine,100.00,0,0,11.00,false,false,true,true
+Late Lunch,Ketchup,33.00,0,4.00,0,false,false,true,true
+Late Lunch,Grape Jelly,35.00,0,9.00,0,false,false,true,true
+Late Lunch,Garden Vegetable Cream Cheese,90.00,1.00,2.00,8.00,false,true,true,false
+Late Lunch,Chives and Onion Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Late Lunch,All Natural Peanut Butter,122.85,4.97,4.52,10.43,false,false,true,true
+Late Lunch,Texas Pete Hot Sauce,0,0,0,0,false,false,true,true
+Late Lunch,12 Grain Bread,100.00,5.00,19.00,2.00,false,false,false,true
+Late Lunch,Cheese Ciabatta,122.06,3.83,23.19,1.24,false,true,false,false
+Late Lunch,Gluten Free Bread,70.00,2.00,11.00,2.00,false,true,true,false
+Late Lunch,Herbed Focaccia,280.00,8.00,49.00,6.00,false,false,false,true
+Late Lunch,Honey Wheat Bread,100.00,4.00,22.00,1.00,false,false,false,true
+Late Lunch,Honey Wheat Tortilla,200.00,5.00,34.00,5.00,false,false,false,true
+Late Lunch,Wheat Bread,50.00,4.00,10.00,1.00,false,false,false,true
+Late Lunch,White Bread,60.00,3.00,12.00,0.50,false,true,false,false
+Late Lunch,Round Pretzel Bun,270.00,2.00,54.00,5.00,false,true,false,false
+Late Lunch,Rye Bread,80.00,3.00,15.00,1.00,false,false,false,true
+Late Lunch,Wheat Sub Roll,220.00,8.00,44.00,2.50,false,false,false,true
+Late Lunch,White Sub Roll,170.00,6.00,34.00,1.50,false,false,false,true
+Late Lunch,White Tortilla,200.00,5.00,32.00,6.00,false,false,false,true
+Late Lunch,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Late Lunch,Sliced Roast Beef,80.00,12.00,1.00,3.00,false,false,true,false
+Late Lunch,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Late Lunch,Chicken Salad,143.45,7.14,0.60,12.16,false,false,true,false
+Late Lunch,Tuna Salad,210.83,12.19,0.50,17.26,false,false,true,false
+Late Lunch,Pepper Jack Cheese,90.00,5.00,1.00,8.00,false,true,true,false
+Late Lunch,Provolone Cheese,80.00,6.00,0,6.00,false,true,true,false
+Late Lunch,Swiss Cheese,90.00,6.00,1.00,7.00,false,true,true,false
+Late Lunch,White American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Late Lunch,Yellow American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Late Lunch,Banana Peppers,0,0,0,0,false,false,true,true
+Late Lunch,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Late Lunch,Green Leaf Lettuce,1.44,0.13,0.28,0.01,false,false,true,true
+Late Lunch,Pickles,3.40,0.17,0.73,0.04,false,false,true,true
+Late Lunch,Sliced Red Onion,11.20,0.31,2.62,0.03,false,false,true,true
+Late Lunch,Sliced Tomatoes,7.20,0.35,1.56,0.08,false,false,true,true
+Late Lunch,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Late Lunch,Light Mayonnaise,35.00,0,0.50,3.50,false,true,true,false
+Late Lunch,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Late Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Late Lunch,Spicy Mustard,5.00,0,1.00,0,false,false,true,true
+Late Lunch,Yellow Mustard,0,0,1.00,0,false,false,true,true
+Late Lunch,Applesauce,81.00,0,19.80,0,false,false,true,true
+Late Lunch,Iceberg Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Late Lunch,Mesclun Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Late Lunch,Romaine Lettuce,8.00,1.00,2.00,0,false,false,true,true
+Late Lunch,Apricots,54.87,0,12.80,0,false,false,true,true
+Late Lunch,Bacon Bits,70.00,6.00,0,4.00,false,false,true,false
+Late Lunch,Banana Peppers,0,0,0,0,false,false,true,true
+Late Lunch,Beets,8.79,0.26,2.04,0.04,false,false,true,true
+Late Lunch,Black Beans,21.81,1.31,3.71,0.11,false,false,true,true
+Late Lunch,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Late Lunch,Broccoli,7.94,0.84,1.49,0.10,false,false,true,true
+Late Lunch,Cherry Tomatoes,5.10,0.25,1.10,0.06,false,false,true,true
+Late Lunch,Chickpeas,39.12,2.00,6.48,0.70,false,false,true,true
+Late Lunch,Croutons,30.00,1.00,5.00,1.00,false,true,false,false
+Late Lunch,Diced Grilled Chicken,104.42,11.44,0,6.06,false,false,true,false
+Late Lunch,Diced Tofu,83.35,8.59,2.21,4.42,false,false,true,true
+Late Lunch,Dried Cranberries,85.05,0,20.55,0.35,false,false,true,true
+Late Lunch,Green Peppers,5.67,0.24,1.32,0.05,false,false,true,true
+Late Lunch,Hard Boiled Eggs,43.94,3.57,0.32,3.01,false,true,true,false
+Late Lunch,Hummus,128.61,3.82,10.45,8.71,false,false,true,true
+Late Lunch,Kidney Beans,34.30,2.30,5.90,0.26,false,false,true,true
+Late Lunch,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Late Lunch,Peas,22.11,1.46,4.04,0.08,false,false,true,true
+Late Lunch,Pita Wedges,72.38,2.11,12.37,1.51,false,true,false,false
+Late Lunch,Quinoa,68.04,2.49,11.91,1.08,false,false,true,true
+Late Lunch,Raisins,92.14,0.71,21.97,0,false,false,true,true
+Late Lunch,Red Onion,10.80,0.30,2.52,0.03,false,false,false,true
+Late Lunch,Shelled Edamame,37.80,3.02,3.40,1.13,false,false,true,true
+Late Lunch,Shredded Carrots,11.62,0.26,2.72,0.07,false,false,true,true
+Late Lunch,Sliced Cucumbers,4.25,0.18,1.03,0.03,false,false,true,true
+Late Lunch,Sliced Mushrooms,6.24,0.88,0.92,0.10,false,false,true,true
+Late Lunch,Sunflower Seeds,83.23,2.76,3.44,7.12,false,false,true,true
+Late Lunch,Cantaloupe,42.31,0.85,10.16,0,false,false,true,true
+Late Lunch,Grapes,78.24,0.82,20.53,0.18,false,false,true,true
+Late Lunch,Honeydew Melon,40.82,0.61,10.31,0.16,false,false,true,true
+Late Lunch,Pineapple,56.70,0.61,14.88,0.14,false,false,true,true
+Late Lunch,Strawberries,36.29,0.76,8.71,0.34,false,false,true,true
+Late Lunch,Feta Cheese,70.87,4.05,1.01,6.07,false,true,true,false
+Late Lunch,Reduced Fat Cottage Cheese,97.52,13.41,4.15,2.78,false,true,true,false
+Late Lunch,Shredded Cheddar Cheese,111.37,6.07,1.01,10.12,false,true,true,false
+Late Lunch,Lowfat Organic Strawberry Yogurt,130.00,7.00,21.00,1.50,true,true,true,false
+Late Lunch,Lowfat Organic Vanilla Yogurt,130.00,7.00,22.00,1.50,false,true,true,false
+Late Lunch,Balsamic Vinaigrette,100.00,0,3.00,10.00,false,false,true,true
+Late Lunch,Blue Cheese Dressing,150.00,0,1.00,16.00,false,true,true,false
+Late Lunch,Creamy Caesar Dressing,170.00,1.00,1.00,18.00,false,false,true,false
+Late Lunch,Ginger Sesame Dressing,40.52,0.55,4.72,2.38,false,false,false,true
+Late Lunch,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Late Lunch,Italian Dressing,150.00,0,0,17.00,false,false,true,true
+Late Lunch,Lite Italian Dressing,45.00,0,1.00,4.50,false,false,true,true
+Late Lunch,Lite Ranch Dressing,80.00,0,3.00,7.00,false,true,true,false
+Late Lunch,Ranch Dressing,140.00,0,2.00,15.00,false,true,true,false
+Late Lunch,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Late Lunch,Raspberry Vinaigrette,150.67,0.07,3.16,15.92,false,false,true,true
+Midday,Assorted Brownies,207.23,2.41,26.69,11.33,false,true,false,false
+Midday,Assorted Cookies,131.62,1.01,17.21,6.07,false,true,false,false
+Midday,Rice Krispie Treats,357.75,1.20,47.50,18.82,false,false,false,false
+Midday,Soft Serve,100.00,0,19.00,3.00,false,true,true,false
+Midday,Ice Cream Cone,19.84,0,3.97,0,false,false,false,true
+Midday,Classic Cheese Pizza,220.00,7.76,20.19,12.80,false,true,false,false
+Midday,Classic Pepperoni Pizza,238.99,8.52,20.32,14.57,false,false,false,false
+Midday,BBQ Chicken and Bacon Pizza,288.97,10.55,29.20,15.25,false,false,false,false
+Midday,Margherita Pizza,174.41,9.17,20.53,7.03,false,true,false,false
+Midday,100% Apple Juice,110.00,0,28.00,0,false,false,true,true
+Midday,Reduced Fat Milk,122.00,8.05,11.71,4.83,false,true,true,false
+Midday,Root Beer,100.00,0,26.00,0,false,false,true,true
+Midday,Sierra Mist,100.00,0,27.00,0,false,false,true,true
+Midday,Skim Milk,83.30,8.26,12.15,0.20,false,true,true,false
+Midday,Strawberry Kiwi Juice,120.00,0,30.00,0,false,false,true,true
+Midday,Sunkist Orange,113.33,0,29.33,0,false,true,true,false
+Midday,Tropicana Fruit Punch,110.00,0,30.00,0,false,false,true,true
+Midday,Tropicana Lemonade,100.00,0,27.00,0,false,false,true,true
+Midday,Vanilla Soymilk,100.00,6.00,10.00,3.50,false,false,true,true
+Midday,Whole Milk,148.84,7.69,11.71,7.93,false,true,true,false
+Midday,Pepsi,100.00,0,28.00,0,false,false,true,true
+Midday,Mountain Dew,110.00,0,29.00,0,false,false,true,true
+Midday,100% Cranberry Juice,140.00,0,36.00,0,false,false,true,true
+Midday,100% Orange Juice,120.00,0,31.00,0,false,false,true,true
+Midday,Cheerwine,100.00,0,28.00,0,false,false,true,true
+Midday,Chocolate Milk,177.50,8.10,31.50,2.50,false,true,true,false
+Midday,Chocolate Soymilk,120.00,5.00,19.00,3.00,false,false,true,true
+Midday,Diet Dr. Pepper,0,0,0,0,false,false,true,true
+Midday,Diet Pepsi,0,0,0,0,false,false,true,true
+Midday,Dr. Pepper,100.00,0,26.40,0,false,false,true,true
+Midday,Gatorade Fruit Punch,80.00,0,21.00,0,false,false,true,true
+Midday,Lactose Free Milk,90.00,8.00,12.00,0,false,true,true,false
+Midday,Wild Cherry Pepsi,100.00,0,28.00,0,false,false,true,true
+Midday,Apple Jacks,110.00,1.00,25.00,1.00,false,false,false,true
+Midday,Cinnamon Toast Crunch,130.00,1.00,25.00,3.00,false,false,false,true
+Midday,Froot Loops,110.00,1.00,26.00,1.00,false,false,false,true
+Midday,Honey Nut Cheerios,110.00,2.00,22.00,1.50,false,true,false,false
+Midday,Lucky Charms,692.99,12.60,138.60,6.30,false,false,false,false
+Midday,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Midday,Raisin Bran,190.00,5.00,46.00,1.00,false,false,false,true
+Midday,Reese's Puffs,120.00,2.00,22.00,3.00,false,false,false,true
+Midday,Rice Chex,100.00,2.00,23.00,0,false,false,true,true
+Midday,Rice Krispies,130.00,2.00,29.00,0,false,false,false,true
+Midday,Chives and Onion Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Midday,Garden Vegetable Cream Cheese,90.00,1.00,2.00,8.00,false,true,true,false
+Midday,Plain Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Midday,Strawberry Cream Cheese,90.00,1.00,5.00,8.00,false,true,true,false
+Midday,Grape Jelly,35.00,0,9.00,0,false,false,true,true
+Midday,Strawberry Jelly,35.00,0,9.00,0,false,false,true,true
+Midday,All Natural Peanut Butter,122.85,4.97,4.52,10.43,false,false,true,true
+Midday,Peanut Butter,120.00,4.00,5.00,11.00,false,false,true,true
+Midday,A.1. Steak Sauce,15.00,0,3.00,0,false,false,true,true
+Midday,Ketchup,33.00,0,4.00,0,false,false,true,true
+Midday,Margarine,100.00,0,0,11.00,false,false,true,true
+Midday,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Midday,Mustard,0,0,1.00,0,false,false,true,true
+Midday,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Midday,Tabasco Hot Sauce,0,0,0,0,false,false,true,true
+Midday,12 Grain Bread,100.00,5.00,19.00,2.00,false,false,false,true
+Midday,Cheese Ciabatta,122.06,3.83,23.19,1.24,false,true,false,false
+Midday,Gluten Free Bread,70.00,2.00,11.00,2.00,false,true,true,false
+Midday,Herbed Focaccia,280.00,8.00,49.00,6.00,false,false,false,true
+Midday,Honey Wheat Bread,100.00,4.00,22.00,1.00,false,false,false,true
+Midday,Honey Wheat Tortilla,200.00,5.00,34.00,5.00,false,false,false,true
+Midday,Wheat Bread,50.00,4.00,10.00,1.00,false,false,false,true
+Midday,White Bread,60.00,3.00,12.00,0.50,false,true,false,false
+Midday,Round Pretzel Bun,270.00,2.00,54.00,5.00,false,true,false,false
+Midday,Rye Bread,80.00,3.00,15.00,1.00,false,false,false,true
+Midday,Wheat Sub Roll,220.00,8.00,44.00,2.50,false,false,false,true
+Midday,White Sub Roll,170.00,6.00,34.00,1.50,false,false,false,true
+Midday,White Tortilla,200.00,5.00,32.00,6.00,false,false,false,true
+Midday,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Midday,Sliced Roast Beef,80.00,12.00,1.00,3.00,false,false,true,false
+Midday,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Midday,Chicken Salad,143.45,7.14,0.60,12.16,false,false,true,false
+Midday,Tuna Salad,210.83,12.19,0.50,17.26,false,false,true,false
+Midday,Pepper Jack Cheese,90.00,5.00,1.00,8.00,false,true,true,false
+Midday,Provolone Cheese,80.00,6.00,0,6.00,false,true,true,false
+Midday,Swiss Cheese,90.00,6.00,1.00,7.00,false,true,true,false
+Midday,White American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Midday,Yellow American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Midday,Banana Peppers,0,0,0,0,false,false,true,true
+Midday,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Midday,Green Leaf Lettuce,1.44,0.13,0.28,0.01,false,false,true,true
+Midday,Pickles,3.40,0.17,0.73,0.04,false,false,true,true
+Midday,Sliced Red Onion,11.20,0.31,2.62,0.03,false,false,true,true
+Midday,Sliced Tomatoes,7.20,0.35,1.56,0.08,false,false,true,true
+Midday,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Midday,Light Mayonnaise,35.00,0,0.50,3.50,false,true,true,false
+Midday,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Midday,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Midday,Spicy Mustard,5.00,0,1.00,0,false,false,true,true
+Midday,Yellow Mustard,0,0,1.00,0,false,false,true,true
+Midday,Applesauce,81.00,0,19.80,0,false,false,true,true
+Midday,Iceberg Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Midday,Mesclun Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Midday,Romaine Lettuce,8.00,1.00,2.00,0,false,false,true,true
+Midday,Apricots,54.87,0,12.80,0,false,false,true,true
+Midday,Bacon Bits,70.00,6.00,0,4.00,false,false,true,false
+Midday,Banana Peppers,0,0,0,0,false,false,true,true
+Midday,Beets,8.79,0.26,2.04,0.04,false,false,true,true
+Midday,Black Beans,21.81,1.31,3.71,0.11,false,false,true,true
+Midday,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Midday,Broccoli,7.94,0.84,1.49,0.10,false,false,true,true
+Midday,Cherry Tomatoes,5.10,0.25,1.10,0.06,false,false,true,true
+Midday,Chickpeas,39.12,2.00,6.48,0.70,false,false,true,true
+Midday,Croutons,30.00,1.00,5.00,1.00,false,true,false,false
+Midday,Diced Grilled Chicken,104.42,11.44,0,6.06,false,false,true,false
+Midday,Diced Tofu,83.35,8.59,2.21,4.42,false,false,true,true
+Midday,Dried Cranberries,85.05,0,20.55,0.35,false,false,true,true
+Midday,Green Peppers,5.67,0.24,1.32,0.05,false,false,true,true
+Midday,Hard Boiled Eggs,43.94,3.57,0.32,3.01,false,true,true,false
+Midday,Hummus,128.61,3.82,10.45,8.71,false,false,true,true
+Midday,Kidney Beans,34.30,2.30,5.90,0.26,false,false,true,true
+Midday,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Midday,Peas,22.11,1.46,4.04,0.08,false,false,true,true
+Midday,Pita Wedges,72.38,2.11,12.37,1.51,false,true,false,false
+Midday,Quinoa,68.04,2.49,11.91,1.08,false,false,true,true
+Midday,Raisins,92.14,0.71,21.97,0,false,false,true,true
+Midday,Red Onion,10.80,0.30,2.52,0.03,false,false,false,true
+Midday,Shelled Edamame,37.80,3.02,3.40,1.13,false,false,true,true
+Midday,Shredded Carrots,11.62,0.26,2.72,0.07,false,false,true,true
+Midday,Sliced Cucumbers,4.25,0.18,1.03,0.03,false,false,true,true
+Midday,Sliced Mushrooms,6.24,0.88,0.92,0.10,false,false,true,true
+Midday,Sunflower Seeds,83.23,2.76,3.44,7.12,false,false,true,true
+Midday,Cantaloupe,42.31,0.85,10.16,0,false,false,true,true
+Midday,Grapes,78.24,0.82,20.53,0.18,false,false,true,true
+Midday,Honeydew Melon,40.82,0.61,10.31,0.16,false,false,true,true
+Midday,Pineapple,56.70,0.61,14.88,0.14,false,false,true,true
+Midday,Strawberries,36.29,0.76,8.71,0.34,false,false,true,true
+Midday,Feta Cheese,70.87,4.05,1.01,6.07,false,true,true,false
+Midday,Reduced Fat Cottage Cheese,97.52,13.41,4.15,2.78,false,true,true,false
+Midday,Shredded Cheddar Cheese,111.37,6.07,1.01,10.12,false,true,true,false
+Midday,Lowfat Organic Strawberry Yogurt,130.00,7.00,21.00,1.50,true,true,true,false
+Midday,Lowfat Organic Vanilla Yogurt,130.00,7.00,22.00,1.50,false,true,true,false
+Midday,Balsamic Vinaigrette,100.00,0,3.00,10.00,false,false,true,true
+Midday,Blue Cheese Dressing,150.00,0,1.00,16.00,false,true,true,false
+Midday,Creamy Caesar Dressing,170.00,1.00,1.00,18.00,false,false,true,false
+Midday,Ginger Sesame Dressing,40.52,0.55,4.72,2.38,false,false,false,true
+Midday,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Midday,Italian Dressing,150.00,0,0,17.00,false,false,true,true
+Midday,Lite Italian Dressing,45.00,0,1.00,4.50,false,false,true,true
+Midday,Lite Ranch Dressing,80.00,0,3.00,7.00,false,true,true,false
+Midday,Ranch Dressing,140.00,0,2.00,15.00,false,true,true,false
+Midday,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Midday,Raspberry Vinaigrette,150.67,0.07,3.16,15.92,false,false,true,true
+Dinner,Assorted Brownies,207.93,2.41,26.68,11.44,false,true,false,false
+Dinner,Assorted Cookies,131.62,1.01,17.21,6.07,false,true,false,false
+Dinner,Rice Krispie Treats,357.75,1.20,47.50,18.82,false,false,false,false
+Dinner,Brownie,182.04,2.33,20.59,11.44,false,true,true,false
+Dinner,Coconut Custard Cream Pie,428.48,5.22,57.48,20.56,false,true,false,false
+Dinner,Lemon Icebox Pie,237.08,1.19,44.42,5.91,false,false,false,true
+Dinner,Vegan Chocolate Hazelnut Cake,655.51,4.90,91.72,31.13,false,false,false,true
+Dinner,Soft Serve,100.00,0,19.00,3.00,false,true,true,false
+Dinner,Ice Cream Cone,19.84,0,3.97,0,false,false,false,true
+Dinner,Cream of Mushroom Soup,112.27,5.15,11.03,5.63,false,true,false,false
+Dinner,Cuban Black Bean Soup,65.06,2.96,9.49,1.58,false,false,true,true
+Dinner,Egg Drop Soup ,30.61,1.31,4.27,0.83,false,false,true,false
+Dinner,Smoked Salmon Roll,112.24,3.01,17.94,2.89,false,false,true,false
+Dinner,Tangy Cucumber Salad,22.16,0.70,4.83,0.18,false,false,true,true
+Dinner,Steamed Edamame,173.40,11.74,13.27,7.25,false,false,true,true
+Dinner,Alfredo,146.47,5.86,7.54,10.04,false,true,false,false
+Dinner,Bolognese,73.85,3.69,6.02,4.08,false,false,true,false
+Dinner,Marinara,41.73,1.35,6.92,1.29,false,false,true,true
+Dinner,Italian Meatballs,40.02,2.00,0.83,3.17,false,false,false,false
+Dinner,Roasted Squash & Zucchini,53.98,1.33,3.82,4.20,false,false,true,true
+Dinner,Penne,119.12,4.17,25.01,0.60,false,false,false,true
+Dinner,Whole Grain Penne,119.12,4.17,24.42,0.89,false,false,false,true
+Dinner,Sun-Dried Tomato Farfalle,231.23,10.95,35.36,6.43,false,true,false,false
+Dinner,Sauteed Mushroom  Peppers  and Onions,80.02,2.29,5.30,6.40,false,false,true,true
+Dinner,Teriyaki Beef and Mushrooms,102.77,5.75,6.88,6.13,false,false,false,false
+Dinner,Soy Pasta with Vegetables,122.63,4.01,22.70,1.21,false,false,false,true
+Dinner,Cheese Omelet,177.24,13.09,1.00,12.97,false,true,true,false
+Dinner,Assorted Veggie Toppings,35.02,2.56,7.05,0.31,false,false,true,true
+Dinner,Bacon,140.00,8.00,0,12.00,false,false,true,false
+Dinner,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Dinner,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Dinner,Breakfast Potatoes,193.49,2.59,25.83,8.38,false,false,true,true
+Dinner,Char Sui Pork ,166.79,11.53,9.48,9.03,false,false,false,false
+Dinner,Basmati Rice,130.48,3.26,28.54,0,false,false,true,true
+Dinner,Steamed Bok Choy,13.34,1.33,2.67,0,false,false,true,true
+Dinner,Seasoned Steamed Peas,86.60,5.87,15.32,0.45,false,false,true,true
+Dinner,Montreal Baked Mahi,157.62,34.02,1.13,1.13,false,false,true,false
+Dinner,Herbed Israeli Couscous,136.98,4.31,25.82,1.66,false,false,false,true
+Dinner,Sauteed Garlic Spinach,43.34,3.16,4.22,2.24,false,false,true,true
+Dinner,Steamed Carrots,46.49,1.05,10.86,0.27,false,false,true,true
+Dinner,Humane Chicken Sandwich,267.60,30.03,27.18,4.87,false,false,false,false
+Dinner,Black Bean Burger,250.00,15.00,43.00,4.50,false,false,false,true
+Dinner,Garden Burger,290.00,22.00,37.00,7.00,false,true,false,false
+Dinner,Sauteed Red Onion,20.87,0.30,2.55,1.16,false,false,true,true
+Dinner,Sauteed Mushrooms,33.29,0.78,0.83,3.22,false,false,true,true
+Dinner,Grilled Cheese Sandwich,350.62,15.00,18.00,27.07,false,true,false,false
+Dinner,Curly Fries,256.60,2.56,23.05,17.34,false,false,false,true
+Dinner,Polenta Puttanesca,62.06,1.31,9.79,2.15,false,false,true,true
+Dinner,White Bean Ragout,94.77,4.13,13.92,2.47,false,false,true,true
+Dinner,Roasted Yellow Squash and Zucchini,54.78,1.31,3.91,4.12,false,false,true,true
+Dinner,Sauteed Garlic Broccoli Rabe,62.36,3.97,6.08,2.99,false,false,true,true
+Dinner,Classic Cheese Pizza,220.00,7.76,20.19,12.80,false,true,false,false
+Dinner,Classic Pepperoni Pizza,238.99,8.52,20.32,14.57,false,false,false,false
+Dinner,BBQ Chicken and Bacon Pizza,288.97,10.55,29.20,15.25,false,false,false,false
+Dinner,Margherita Pizza,174.41,9.17,20.53,7.03,false,true,false,false
+Dinner,Buffalo Grilled Chicken Wrap,617.32,31.19,50.61,31.74,false,false,false,false
+Dinner,Ranch Chips,125.92,1.29,13.51,7.08,false,true,true,false
+Dinner,100% Apple Juice,110.00,0,28.00,0,false,false,true,true
+Dinner,Reduced Fat Milk,122.00,8.05,11.71,4.83,false,true,true,false
+Dinner,Root Beer,100.00,0,26.00,0,false,false,true,true
+Dinner,Sierra Mist,100.00,0,27.00,0,false,false,true,true
+Dinner,Skim Milk,83.30,8.26,12.15,0.20,false,true,true,false
+Dinner,Strawberry Kiwi Juice,120.00,0,30.00,0,false,false,true,true
+Dinner,Sunkist Orange,113.33,0,29.33,0,false,true,true,false
+Dinner,Tropicana Fruit Punch,110.00,0,30.00,0,false,false,true,true
+Dinner,Tropicana Lemonade,100.00,0,27.00,0,false,false,true,true
+Dinner,Vanilla Soymilk,100.00,6.00,10.00,3.50,false,false,true,true
+Dinner,Whole Milk,148.84,7.69,11.71,7.93,false,true,true,false
+Dinner,Pepsi,100.00,0,28.00,0,false,false,true,true
+Dinner,Mountain Dew,110.00,0,29.00,0,false,false,true,true
+Dinner,100% Cranberry Juice,140.00,0,36.00,0,false,false,true,true
+Dinner,100% Orange Juice,120.00,0,31.00,0,false,false,true,true
+Dinner,Cheerwine,100.00,0,28.00,0,false,false,true,true
+Dinner,Chocolate Milk,177.50,8.10,31.50,2.50,false,true,true,false
+Dinner,Chocolate Soymilk,120.00,5.00,19.00,3.00,false,false,true,true
+Dinner,Diet Dr. Pepper,0,0,0,0,false,false,true,true
+Dinner,Diet Pepsi,0,0,0,0,false,false,true,true
+Dinner,Dr. Pepper,100.00,0,26.40,0,false,false,true,true
+Dinner,Gatorade Fruit Punch,80.00,0,21.00,0,false,false,true,true
+Dinner,Lactose Free Milk,90.00,8.00,12.00,0,false,true,true,false
+Dinner,Wild Cherry Pepsi,100.00,0,28.00,0,false,false,true,true
+Dinner,Apple Jacks,110.00,1.00,25.00,1.00,false,false,false,true
+Dinner,Cinnamon Toast Crunch,130.00,1.00,25.00,3.00,false,false,false,true
+Dinner,Froot Loops,110.00,1.00,26.00,1.00,false,false,false,true
+Dinner,Honey Nut Cheerios,110.00,2.00,22.00,1.50,false,true,false,false
+Dinner,Lucky Charms,692.99,12.60,138.60,6.30,false,false,false,false
+Dinner,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Dinner,Raisin Bran,190.00,5.00,46.00,1.00,false,false,false,true
+Dinner,Reese's Puffs,120.00,2.00,22.00,3.00,false,false,false,true
+Dinner,Rice Chex,100.00,2.00,23.00,0,false,false,true,true
+Dinner,Rice Krispies,130.00,2.00,29.00,0,false,false,false,true
+Dinner,Chives and Onion Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Dinner,Garden Vegetable Cream Cheese,90.00,1.00,2.00,8.00,false,true,true,false
+Dinner,Plain Cream Cheese,90.00,2.00,2.00,9.00,false,true,true,false
+Dinner,Strawberry Cream Cheese,90.00,1.00,5.00,8.00,false,true,true,false
+Dinner,Grape Jelly,35.00,0,9.00,0,false,false,true,true
+Dinner,Strawberry Jelly,35.00,0,9.00,0,false,false,true,true
+Dinner,All Natural Peanut Butter,122.85,4.97,4.52,10.43,false,false,true,true
+Dinner,Peanut Butter,120.00,4.00,5.00,11.00,false,false,true,true
+Dinner,A.1. Steak Sauce,15.00,0,3.00,0,false,false,true,true
+Dinner,Ketchup,33.00,0,4.00,0,false,false,true,true
+Dinner,Margarine,100.00,0,0,11.00,false,false,true,true
+Dinner,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Dinner,Mustard,0,0,1.00,0,false,false,true,true
+Dinner,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Dinner,Tabasco Hot Sauce,0,0,0,0,false,false,true,true
+Dinner,12 Grain Bread,100.00,5.00,19.00,2.00,false,false,false,true
+Dinner,Cheese Ciabatta,122.06,3.83,23.19,1.24,false,true,false,false
+Dinner,Gluten Free Bread,70.00,2.00,11.00,2.00,false,true,true,false
+Dinner,Herbed Focaccia,280.00,8.00,49.00,6.00,false,false,false,true
+Dinner,Honey Wheat Bread,100.00,4.00,22.00,1.00,false,false,false,true
+Dinner,Honey Wheat Tortilla,200.00,5.00,34.00,5.00,false,false,false,true
+Dinner,Wheat Bread,50.00,4.00,10.00,1.00,false,false,false,true
+Dinner,White Bread,60.00,3.00,12.00,0.50,false,true,false,false
+Dinner,Round Pretzel Bun,270.00,2.00,54.00,5.00,false,true,false,false
+Dinner,Rye Bread,80.00,3.00,15.00,1.00,false,false,false,true
+Dinner,Wheat Sub Roll,220.00,8.00,44.00,2.50,false,false,false,true
+Dinner,White Sub Roll,170.00,6.00,34.00,1.50,false,false,false,true
+Dinner,White Tortilla,200.00,5.00,32.00,6.00,false,false,false,true
+Dinner,Sliced Ham,70.00,10.00,1.00,3.00,false,false,true,false
+Dinner,Sliced Roast Beef,80.00,12.00,1.00,3.00,false,false,true,false
+Dinner,Sliced Turkey,50.62,11.14,1.01,1.01,false,false,true,false
+Dinner,Chicken Salad,143.45,7.14,0.60,12.16,false,false,true,false
+Dinner,Tuna Salad,210.83,12.19,0.50,17.26,false,false,true,false
+Dinner,Pepper Jack Cheese,90.00,5.00,1.00,8.00,false,true,true,false
+Dinner,Provolone Cheese,80.00,6.00,0,6.00,false,true,true,false
+Dinner,Swiss Cheese,90.00,6.00,1.00,7.00,false,true,true,false
+Dinner,White American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Dinner,Yellow American Cheese,120.00,5.00,2.00,8.00,false,true,true,false
+Dinner,Banana Peppers,0,0,0,0,false,false,true,true
+Dinner,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Dinner,Green Leaf Lettuce,1.44,0.13,0.28,0.01,false,false,true,true
+Dinner,Pickles,3.40,0.17,0.73,0.04,false,false,true,true
+Dinner,Sliced Red Onion,11.20,0.31,2.62,0.03,false,false,true,true
+Dinner,Sliced Tomatoes,7.20,0.35,1.56,0.08,false,false,true,true
+Dinner,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Dinner,Light Mayonnaise,35.00,0,0.50,3.50,false,true,true,false
+Dinner,Mayonnaise,90.00,0,0,10.00,false,true,true,false
+Dinner,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Dinner,Spicy Mustard,5.00,0,1.00,0,false,false,true,true
+Dinner,Yellow Mustard,0,0,1.00,0,false,false,true,true
+Dinner,Applesauce,81.00,0,19.80,0,false,false,true,true
+Dinner,Iceberg Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Dinner,Mesclun Lettuce,10.00,1.00,2.00,0,false,false,true,true
+Dinner,Romaine Lettuce,8.00,1.00,2.00,0,false,false,true,true
+Dinner,Apricots,54.87,0,12.80,0,false,false,true,true
+Dinner,Bacon Bits,70.00,6.00,0,4.00,false,false,true,false
+Dinner,Banana Peppers,0,0,0,0,false,false,true,true
+Dinner,Beets,8.79,0.26,2.04,0.04,false,false,true,true
+Dinner,Black Beans,21.81,1.31,3.71,0.11,false,false,true,true
+Dinner,Black Olives,32.60,0.24,1.77,3.03,false,false,true,true
+Dinner,Broccoli,7.94,0.84,1.49,0.10,false,false,true,true
+Dinner,Cherry Tomatoes,5.10,0.25,1.10,0.06,false,false,true,true
+Dinner,Chickpeas,39.12,2.00,6.48,0.70,false,false,true,true
+Dinner,Croutons,30.00,1.00,5.00,1.00,false,true,false,false
+Dinner,Diced Grilled Chicken,104.42,11.44,0,6.06,false,false,true,false
+Dinner,Diced Tofu,83.35,8.59,2.21,4.42,false,false,true,true
+Dinner,Dried Cranberries,85.05,0,20.55,0.35,false,false,true,true
+Dinner,Green Peppers,5.67,0.24,1.32,0.05,false,false,true,true
+Dinner,Hard Boiled Eggs,43.94,3.57,0.32,3.01,false,true,true,false
+Dinner,Hummus,128.61,3.82,10.45,8.71,false,false,true,true
+Dinner,Kidney Beans,34.30,2.30,5.90,0.26,false,false,true,true
+Dinner,Oats & Honey Granola,237.11,5.15,43.30,6.19,true,true,false,false
+Dinner,Peas,22.11,1.46,4.04,0.08,false,false,true,true
+Dinner,Pita Wedges,72.38,2.11,12.37,1.51,false,true,false,false
+Dinner,Quinoa,68.04,2.49,11.91,1.08,false,false,true,true
+Dinner,Raisins,92.14,0.71,21.97,0,false,false,true,true
+Dinner,Red Onion,10.80,0.30,2.52,0.03,false,false,false,true
+Dinner,Shelled Edamame,37.80,3.02,3.40,1.13,false,false,true,true
+Dinner,Shredded Carrots,11.62,0.26,2.72,0.07,false,false,true,true
+Dinner,Sliced Cucumbers,4.25,0.18,1.03,0.03,false,false,true,true
+Dinner,Sliced Mushrooms,6.24,0.88,0.92,0.10,false,false,true,true
+Dinner,Sunflower Seeds,83.23,2.76,3.44,7.12,false,false,true,true
+Dinner,Cantaloupe,42.31,0.85,10.16,0,false,false,true,true
+Dinner,Grapes,78.24,0.82,20.53,0.18,false,false,true,true
+Dinner,Honeydew Melon,40.82,0.61,10.31,0.16,false,false,true,true
+Dinner,Pineapple,56.70,0.61,14.88,0.14,false,false,true,true
+Dinner,Strawberries,36.29,0.76,8.71,0.34,false,false,true,true
+Dinner,Feta Cheese,70.87,4.05,1.01,6.07,false,true,true,false
+Dinner,Reduced Fat Cottage Cheese,97.52,13.41,4.15,2.78,false,true,true,false
+Dinner,Shredded Cheddar Cheese,111.37,6.07,1.01,10.12,false,true,true,false
+Dinner,Lowfat Organic Strawberry Yogurt,130.00,7.00,21.00,1.50,true,true,true,false
+Dinner,Lowfat Organic Vanilla Yogurt,130.00,7.00,22.00,1.50,false,true,true,false
+Dinner,Balsamic Vinaigrette,100.00,0,3.00,10.00,false,false,true,true
+Dinner,Blue Cheese Dressing,150.00,0,1.00,16.00,false,true,true,false
+Dinner,Creamy Caesar Dressing,170.00,1.00,1.00,18.00,false,false,true,false
+Dinner,Ginger Sesame Dressing,40.52,0.55,4.72,2.38,false,false,false,true
+Dinner,Honey Mustard Dressing,130.00,0,6.00,11.00,false,true,true,false
+Dinner,Italian Dressing,150.00,0,0,17.00,false,false,true,true
+Dinner,Lite Italian Dressing,45.00,0,1.00,4.50,false,false,true,true
+Dinner,Lite Ranch Dressing,80.00,0,3.00,7.00,false,true,true,false
+Dinner,Ranch Dressing,140.00,0,2.00,15.00,false,true,true,false
+Dinner,Oil and Vinegar,186.05,0.03,1.21,20.98,false,false,true,true
+Dinner,Raspberry Vinaigrette,150.67,0.07,3.16,15.92,false,false,true,true
