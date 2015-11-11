@@ -10,7 +10,7 @@ public class CDSPlaygroundSoln {
       Food food = menu[i];
       if(food.getSeating().equals("Dinner")) {
         if(food.isHighProteinAndOrganic()) {
-          System.out.println(food.getSeating() + " - " + food);
+          System.out.println(food);
         }
       }
     }
